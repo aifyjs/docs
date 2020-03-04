@@ -1,10 +1,6 @@
 var NAVTREE =
 [
   [ "Aify", "index.html", [
-    [ "aify_core", "d3/dcc/md__r_e_a_d_m_e.html", null ],
-    [ "Namespaces", null, [
-      [ "Namespace List", "namespaces.html", "namespaces" ]
-    ] ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],

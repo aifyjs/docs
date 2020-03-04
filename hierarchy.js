@@ -2,11 +2,11 @@ var hierarchy =
 [
     [ "AifyRecommendation", "dd/d91/classmake__recommendations_1_1_aify_recommendation.html", null ],
     [ "BasicCaption", "d3/d2a/classapi_1_1basic__captions_1_1_basic_caption.html", null ],
-    [ "UserProfile.Meta", "d3/d81/classpublic_1_1models_1_1_user_profile_1_1_meta.html", null ],
-    [ "Website.Meta", "d6/dbf/classwebsites_1_1models_1_1_website_1_1_meta.html", null ],
     [ "Notif.Meta", "d8/d6c/classelements_1_1models_1_1_notif_1_1_meta.html", null ],
-    [ "Page.Meta", "d1/d09/classpages_1_1models_1_1_page_1_1_meta.html", null ],
     [ "Img.Meta", "d3/df7/classpages_1_1models_1_1_img_1_1_meta.html", null ],
+    [ "Website.Meta", "d6/dbf/classwebsites_1_1models_1_1_website_1_1_meta.html", null ],
+    [ "UserProfile.Meta", "d3/d81/classpublic_1_1models_1_1_user_profile_1_1_meta.html", null ],
+    [ "Page.Meta", "d1/d09/classpages_1_1models_1_1_page_1_1_meta.html", null ],
     [ "Migration", null, [
       [ "Migration", "d0/de5/classelements_1_1migrations_1_10001__initial_1_1_migration.html", null ],
       [ "Migration", "d1/d74/classpages_1_1migrations_1_10001__initial_1_1_migration.html", null ],

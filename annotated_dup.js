@@ -1,6 +1,5 @@
 var annotated_dup =
 [
-    [ "aify_core", null, null ],
     [ "api", null, [
       [ "apps", null, [
         [ "ApiConfig", "dc/dcb/classapi_1_1apps_1_1_api_config.html", null ]
