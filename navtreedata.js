@@ -1,7 +1,7 @@
 var NAVTREE =
 [
   [ "Aify", "index.html", [
-    [ "aify_core", "md__r_e_a_d_m_e.html", null ],
+    [ "aify_core", "d3/dcc/md__r_e_a_d_m_e.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ]
     ] ],
@@ -13,6 +13,9 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ]
       ] ]
+    ] ],
+    [ "Files", null, [
+      [ "File List", "files.html", "files" ]
     ] ]
   ] ]
 ];
